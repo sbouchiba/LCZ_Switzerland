@@ -1,4 +1,15 @@
-OLD*/
+OLD/
+OLD2/
+OLD3/
 assets/
 data/
 topo/swissALTI3D/
+topo/swissSURFACE3D_Raster/
+topo/swissSURFACE3D/extracted_test/
+topo/swissSURFACE3D/geotiff/
+topo/swissSURFACE3D/data.zip
+images/
+output/
+input/samples/*.qmd
+examples/
+.ipynb_checkpoints/

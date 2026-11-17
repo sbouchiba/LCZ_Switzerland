@@ -1,0 +1,9 @@
+class,n_train,mean_dist_k1,mean_dist_k2,compactness_gain_pct,silhouette_k2,cluster_balance,likely_multimodal
+Water,45,0.4232,0.2469,41.7,0.271,0.533,True
+Bare/Paved,45,0.5325,0.4093,23.1,0.197,0.235,False
+Large LR,45,0.446,0.3408,23.6,0.181,0.188,False
+Compact MR,45,0.292,0.2192,24.9,0.179,0.182,False
+Open MR,45,0.4151,0.3144,24.3,0.17,0.316,False
+Open LR,45,0.4471,0.3328,25.6,0.169,0.533,False
+Dense Trees,45,0.4254,0.3212,24.5,0.167,0.444,False
+Low plants,45,0.4766,0.3536,25.8,0.166,0.389,False
